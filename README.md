@@ -3,4 +3,6 @@
  
 This notebook seeks to extract and analyze text data from Metacritic Users Reviews, to try and understand the review bombing the game suffered with its release.
 
+This analysis contains a lot of spoilers, so, please, proceed with caution.
+
 First, we will use `beatiful soup` to extract the reviews from the website. Then, we will use a number of text analysis libs to generate insights from the gathered data.
